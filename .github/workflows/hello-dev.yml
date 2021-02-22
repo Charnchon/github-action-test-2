@@ -6,7 +6,7 @@ on:
       - develop
 
 env:
-  PROJECT_ID: ci-cd-develop
+  PROJECT_ID: ci-cd-artisan
   BRANCH_NAME: develop
   RUN_REGION: asia-southeast1
   SERVICE_NAME: hello-boat
